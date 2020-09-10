@@ -11,6 +11,7 @@
 }
 .wrapper {
 	display: flex;
+	margin: 15px auto 0 auto;
 }
 .wrapper .chart:nth-of-type(1) {
 	margin-right: 0.5rem;
