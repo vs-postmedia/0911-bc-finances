@@ -6,7 +6,6 @@ import css from './css/main.css';
 
 // JS
 const init = async () => {
-	
 	console.log('hello, world');
 };
 
